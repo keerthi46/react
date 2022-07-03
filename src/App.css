@@ -25,6 +25,13 @@ body {
   border-radius: 5px;
   background: #fff;
 }
+
+.success {
+  width: 70%;
+  color: #fff;
+  font-size: larger;
+}
+
 pre {
   width: 70%;
   color: #fff;
